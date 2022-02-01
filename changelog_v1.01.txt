@@ -1,0 +1,4 @@
+Version 1.01 Changelog
+- Program now checks if the project path given exists, gives the user an error if it does not
+- Now has an option to output a .R file instead of a .py file. 
+-- Use the argument "r-mode" to output a .R file. Optionally can use "py-mode" to explicitly choose to export to a .py (default)
